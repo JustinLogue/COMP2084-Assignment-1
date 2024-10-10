@@ -1,4 +1,5 @@
-﻿using Assignment1.Models;
+﻿
+using Assignment1.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Assignment1.Controllers
@@ -18,10 +19,11 @@ namespace Assignment1.Controllers
             return View(category);
 
         }
+        [HttpPost]
         public IActionResult Edit(Category category)
         {
             CategoryRepo.UpdateCategory(category.CategoryId, category);
-            return RedirectToAction("Index");
+            return RedirectToAction(nameof(Index)); 
         }
     }
 }

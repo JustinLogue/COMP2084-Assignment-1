@@ -13,18 +13,18 @@
         //new Task {Id=1, Name="Upload Lastest Build", Description="Upload Lastest Bulid", Repeating= true, CategoryId = 1}
         };
 
-        public static void AddCatergory(Category catergory)
+        public static void AddCategory(Category category)
         {
             var maxId = _categories.Max(x => x.CategoryId);
-            catergory.CategoryId = maxId + 1;
-            _categories.Add(catergory);
+            category.CategoryId = maxId + 1;
+            _categories.Add(category);
         }
 
         public static List<Category> GetCategories() => _categories;
 
-        public static Category? GetCategoryById(int CatergoryId)
+        public static Category? GetCategoryById(int categoryId)
         {
-            var category = _categories.FirstOrDefault(x => x.CategoryId == CatergoryId);
+            var category = _categories.FirstOrDefault(x => x.CategoryId == categoryId);
             if (category != null)
             {
                 return new Category
@@ -36,11 +36,11 @@
             return null;
         }
 
-        public static void UpdateCategory(int CategoryId, Category category)
+        public static void UpdateCategory(int categoryId, Category category)
         {
-            if (CategoryId != category.CategoryId) return;
+            if (categoryId != category.CategoryId) return;
 
-            var updatedCategory = GetCategoryById(CategoryId);
+            var updatedCategory = _categories.FirstOrDefault(x => x.CategoryId ==categoryId);
             if (updatedCategory != null)
             {
                 {

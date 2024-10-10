@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|c:\\users\\justi\\onedrive\\documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\assignment1\\assignment1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|c:\\users\\justi\\onedrive\\documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\assignment1\\assignment1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +11,20 @@
       "RelativeMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|c:\\users\\justi\\onedrive\\documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\assignment1\\assignment1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|c:\\users\\justi\\onedrive\\documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\assignment1\\assignment1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|c:\\users\\justi\\onedrive\\documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\assignment1\\assignment1\\models\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\models\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|c:\\users\\justi\\onedrive\\documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\assignment1\\assignment1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|c:\\users\\justi\\onedrive\\documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\assignment1\\assignment1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|c:\\users\\justi\\onedrive\\documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\assignment1\\assignment1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|c:\\users\\justi\\onedrive\\documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\assignment1\\assignment1\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,12 +35,12 @@
       "RelativeMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|c:\\users\\justi\\onedrive\\documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\assignment1\\assignment1\\models\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\models\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|c:\\users\\justi\\onedrive\\documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\assignment1\\assignment1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|c:\\users\\justi\\onedrive\\documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\assignment1\\assignment1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|c:\\users\\justi\\onedrive\\documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\assignment1\\assignment1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E886E33-242E-4DCA-BDB0-E9CC88102A73}|Assignment1\\Assignment1.csproj|c:\\users\\justi\\onedrive\\documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\assignment1\\assignment1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -54,17 +54,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Views\\Categories\\Edit.cshtml",
               "RelativeDocumentMoniker": "Assignment1\\Views\\Categories\\Edit.cshtml",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Views\\Categories\\Edit.cshtml",
               "RelativeToolTip": "Assignment1\\Views\\Categories\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-07T23:24:47.278Z",
               "IsPinned": true,
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Assignment1\\Views\\_ViewImports.cshtml",
@@ -86,7 +86,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Models\\Category.cs",
+              "RelativeToolTip": "Assignment1\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T23:22:14.115Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Models\\Task.cs",
+              "RelativeToolTip": "Assignment1\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:15:59.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Assignment1\\Views\\Home\\Index.cshtml",
@@ -99,41 +126,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Assignment1\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Assignment1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-07T23:42:11.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Assignment1\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Assignment1\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T22:56:12.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Assignment1\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Models\\Category.cs",
-              "RelativeToolTip": "Assignment1\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T23:22:14.115Z",
               "EditorCaption": ""
             },
             {
@@ -144,46 +158,23 @@
               "RelativeDocumentMoniker": "Assignment1\\Views\\Categories\\Index.cshtml",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Views\\Categories\\Index.cshtml",
               "RelativeToolTip": "Assignment1\\Views\\Categories\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-07T23:01:36.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Assignment1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Assignment1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T21:26:32.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Models\\Task.cs",
-              "RelativeDocumentMoniker": "Assignment1\\Models\\Task.cs",
-              "ToolTip": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Models\\Task.cs",
-              "RelativeToolTip": "Assignment1\\Models\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T02:15:59.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "CategoryRepo.cs",
               "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Models\\CategoryRepo.cs",
               "RelativeDocumentMoniker": "Assignment1\\Models\\CategoryRepo.cs",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Models\\CategoryRepo.cs",
               "RelativeToolTip": "Assignment1\\Models\\CategoryRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T02:33:54.008Z"
+              "WhenOpened": "2024-10-08T02:33:54.008Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -193,9 +184,22 @@
               "RelativeDocumentMoniker": "Assignment1\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Properties\\launchSettings.json",
               "RelativeToolTip": "Assignment1\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAgAAAAAAAAAAABRwBgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-06T23:18:00.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Documents\\coding\\hmwk\\fall2024\\comp2084\\ass1\\Assignment1\\Assignment1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Assignment1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:26:32.026Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -5,8 +5,14 @@ namespace Assignment1.Models
     public class Task
     {
         public int Id { get; set; }
+
+        [Required]
         public string Name { get; set; }
+
+        [Required]
         public string Description { get; set; }
+
+        
         public bool Repeating {  get; set; }
 
         [Display(Name ="Category")]
