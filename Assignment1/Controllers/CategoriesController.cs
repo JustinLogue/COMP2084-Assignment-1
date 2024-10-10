@@ -18,5 +18,10 @@ namespace Assignment1.Controllers
             return View(category);
 
         }
+        public IActionResult Edit(Category category)
+        {
+            CategoryRepo.UpdateCategory(category.CategoryId, category);
+            return RedirectToAction("Index");
+        }
     }
 }

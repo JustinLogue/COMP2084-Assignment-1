@@ -9,6 +9,9 @@
         new Category {CategoryId = 3, Name = "School"},
         new Category {CategoryId = 4, Name = "Misc"},
         };
+        private static List<Task> _tasks = new List<Task>() { 
+        //new Task {Id=1, Name="Upload Lastest Build", Description="Upload Lastest Bulid", Repeating= true, CategoryId = 1}
+        };
 
         public static void AddCatergory(Category catergory)
         {
