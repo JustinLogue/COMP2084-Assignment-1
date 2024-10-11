@@ -1,0 +1,22 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using Assignment1.Models;
+@model Category
+
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_Layout";
+}
+<h1>Adding a Category</h1>
+
+<form method="post" asp-controller="Categories" asp-action="add">
+    <label asp-for="Name"></label>
+    <input type="text" asp-for="Name" />
+    <input type="submit" value="Add" />
+</form>
