@@ -12,6 +12,7 @@
     {
         <li>
             <a href="@($"/categories/edit/{category.Name}")">@category.Name</a>
+            <a class="btn btn-link" asp-controller="categories" asp-action="delete" asp-route-categoryid="@category.CategoryId">Delete</a>
         </li>
     }
 </ul>

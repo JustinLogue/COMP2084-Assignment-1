@@ -31,15 +31,21 @@ namespace Assignment1.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Add(Category category) 
-        { 
+        public IActionResult Add(Category category)
+        {
             if (ModelState.IsValid)
             {
                 CategoryRepo.AddCategory(category);
                 return RedirectToAction(nameof(Index));
             }
             return View(category);
-        
+
+        }
+
+        public IActionResult Delete(int categoryId)
+        {
+            CategoryRepo.DeleteCategory(categoryId);
+            return RedirectToAction(nameof(Index));
         }
     }
 }
